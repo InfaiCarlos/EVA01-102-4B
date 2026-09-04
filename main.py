@@ -1,5 +1,6 @@
 from os import system
 system("cls")
+
 from auto import Auto
 from motocicleta import Motocicleta
 from vendedor import Vendedor
@@ -68,3 +69,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+# git : https://github.com/InfaiCarlos/EVA01-102-4B.git
